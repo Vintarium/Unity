@@ -7,7 +7,8 @@
 
 Вот адрес по которому вы можете ознакомится с шаблоном:
 
-https://vintarium.github.io/Unity/
+https://vintarium.itch.io/artgallery2025
+
 
 
 
